@@ -23,7 +23,7 @@ global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://whatsapp.com/channel/0029VagJS3S0LKZJzeN30G0G'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
